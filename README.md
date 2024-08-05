@@ -90,3 +90,9 @@ The evaluation of the abstract syntax tree will be :
 4. Evaluate the right child of the MULTIPLY node which is NUMBER(2). The result will be 2.
 5. Multiply the results of the left and right children of the MULTIPLY node which will be 4.
 6. Add the results of the left and right children of the ADD node which will be 6.
+
+## Notes
+
+- This program is not 100% accurate , it can solve simple math problems , but it can't solve complex math problems like trigonometry , logarithms , etc.
+- This program is created for educational purposes only , it can be used as a reference for creating a more complex math solver.
+- Wasnt 100% created by me , i used some resources from the internet to help me create this program.
